@@ -11,7 +11,7 @@
         print "nome ".$name;
     }
     EscreveNome('Andrei');
-    */
+    
     // passando mais de um parametro
 
     function EscreveNome($msg,$name){
@@ -19,5 +19,14 @@
         print strtoupper($msg." ".$name);// imprindo em letra maiuscula
     }
     EscreveNome('Olá','Andrei');
+    */
+    // condicional
+    
+    $i = 10;
+    if($i != 10){
+        print 'isso está certo';
+    } else {
+        print 'isso está errado';
+    }
 
 ?>
