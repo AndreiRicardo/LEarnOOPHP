@@ -1,5 +1,5 @@
 <?php
-/*
+/*  esteconteudoreferen-seaaula5
     usando variaveis
     $minhaVariavel = 'Deu certo usar a variável';
     echo $minhaVariavel;
